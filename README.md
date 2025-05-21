@@ -2,7 +2,7 @@
 <h3 align="center">A profecional and pasionale backend developer from Argentina</h3>
 
 <div align="center">
-  <img src="RUTA/A/TU/IMAGEN.png" alt="Texto alternativo" width="300" style="border-radius: 50%;" />
+  <img src="AI Image from Pixelcut.jpeg" alt="Photo profile" width="300" style="border-radius: 50%;" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinodichiara&label=Profile%20views&color=0e75b6&style=flat" alt="dinodichiara" /> </p>
