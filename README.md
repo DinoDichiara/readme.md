@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dino Dichiara</h1>
 <h3 align="center">A profecional and pasionale backend developer from Argentina</h3>
 
-![Banner del proyecto](./AI Image from Pixelcut.jpg)
+<img src="AI Image from Pixelcut.jpg" alt="Image profile" width="250" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinodichiara&label=Profile%20views&color=0e75b6&style=flat" alt="dinodichiara" /> </p>
 
